@@ -3,8 +3,8 @@ class AtmMachine:
         menu_list = [
             "Make a Deposit",
             "Make a Withdrawal",
-            "Check Account Balance",
             "Transfer Funds",
+            "Check Account Balance",
             "View Transaction History",
             "Change PIN",
             "Exit"
