@@ -82,5 +82,9 @@ Want to contribute? Fork this repo and submit a pull request.
 ## 📜 License
 This project is licensed under the MIT License.
 
+<h1>Ready to Enjoy?<br>
+-Fork it.<br>
+--Run it.<br>
+----Love it.<br>
 
 
